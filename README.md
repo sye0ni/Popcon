@@ -3,7 +3,7 @@
 <br>
 <br>
 
-<img src="/uploads/16d83ba791d5d459c034774529a9f8b0/main.JPG"/>
+<img src="https://github.com/sye0ni/Popcon/assets/91115868/b0d214df-93a5-4404-b658-715c61a187c8"/>
 
 <br>
 <br>
@@ -17,7 +17,6 @@ AI이미지 추천, 좋아요 기반 추천, POPBTI를 통한 추천을 활용�
 
 AR카메라를 이용한 다양한 인증 사진도 찍으실 수 있습니다.
 
-[팝콘 바로가기](https://i10c211.p.ssafy.io/)
 
 <br>
 <br>
@@ -39,16 +38,16 @@ SSAFY 10기 2학기 공통 프로젝트
 
 |||
 |---|---|
-|<img src="/uploads/d8b59f584542a34a2f4d2e77f5991c08/pwa01.gif" width="300" height="500">|<img src="/uploads/e2a6fc1016055ba72fd32c3d97288f10/main01.gif" width="300" height="500">|
+|<img src="https://github.com/sye0ni/Popcon/assets/91115868/8cb3c402-707d-4dd6-baa3-2067ce7c75bd" width="300" height="500">|<img src="https://github.com/sye0ni/Popcon/assets/91115868/0f43e1e7-0943-45e4-801b-e7e99c7e51b9" width="300" height="500">|
 |`PWA` 홈페이지, 앱|`메인 화면` 서비스 소개|
-|<img src="/uploads/018ed2302ec1baa05b919e08bb04147d/지도페이지1.gif" width="300" height="500">|<img src="/uploads/d2cb88cf001436013b2599e8c7eeb418/상세페이지.gif" width="300" height="500">|
+|<img src="https://github.com/sye0ni/Popcon/assets/91115868/b3bee3ea-cb02-4464-8e8f-ef724c12095b" width="300" height="500">|<img src="https://github.com/sye0ni/Popcon/assets/91115868/d45356eb-01c8-4ca8-a98c-f982b977c2fb" width="300" height="500">|
 |`맵 기반 검색` 카테고리, 날짜|`상세 페이지` 소개, 꿀팁, 리뷰 통계, 리뷰|
-|<img src="/uploads/a4295620e46ebef33be83e5b0bf5bcaa/ARCode.gif" width="300" height="500">|<img src="/uploads/9d1d3c4bcad32078e4db3795235b524a/ARF.gif" width="300" height="500">|
+|<img src="https://github.com/sye0ni/Popcon/assets/91115868/55f21465-a60f-48ba-a4e2-845585edf2c4" width="300" height="500">|<img src="https://github.com/sye0ni/Popcon/assets/91115868/d8fbd140-0dca-4fbd-a141-a692afc46325" width="300" height="500">|
 |`AR 카메라` 전면 카메라|`AR 카메라` 후면 카메라|
-|<img src="/uploads/24d4ebb3dcbd31a6f4e27d1e9ea6f770/팝비티아이.gif" width="300" height="500">|<img src="/uploads/1f3df0b90d73ae463f7034987e4f7da7/ai01.gif" width="300" height="500">|
+|<img src="https://github.com/sye0ni/Popcon/assets/91115868/77876f3a-6273-4307-b00a-48ac3299c733" width="300" height="500">|<img src="https://github.com/sye0ni/Popcon/assets/91115868/9a3beeaa-10e2-4189-958f-ecdc5c12c09e" width="300" height="500">|
 |`맞춤 추천` POPBTI 검사 결과 기반 추천 맟 공유|`맞춤 추천` AI 이미지 분석 결과 기반 추천|
-|<img src="/uploads/4dc2d04dcb458016c1f8ea159d22e18b/good01.gif" width="300" height="500">|<img src="">|
-|`맞춤 추천` 로그인 유저 좋아요 기반 추천|`푸쉬 알림` 팝업 알림|
+|<img src="https://github.com/sye0ni/Popcon/assets/91115868/1927511c-883a-47aa-a7a5-a61ce0a06c6c" width="300" height="500">|
+|`맞춤 추천` 로그인 유저 좋아요 기반 추천|
 
 <br>
 <br>
@@ -72,18 +71,11 @@ SSAFY 10기 2학기 공통 프로젝트
 
 # 아키텍처
 
-<img width="70%" src="/uploads/349b4b68c808e50a9ab57488d32873da/archi.png">
+<img width="70%" src="https://github.com/sye0ni/Popcon/assets/91115868/2952e4b1-13e1-4366-a561-ce21ce91a80c">
 
 <br>
 <br>
 <br>
 
-# ERD
-
-<img width="70%" src="/uploads/94c4c41622d48aac742b8ef0219de0e0/popcon_erd.png">
-
-<br>
-<br>
-<br>
 
 </div>
